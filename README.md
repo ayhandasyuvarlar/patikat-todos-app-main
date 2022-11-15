@@ -8,3 +8,5 @@
 - State
 - UseEffect
 - UseState
+
+### patika [linkim](https://app.patika.dev/ayhandasyuvarlar)
